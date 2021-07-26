@@ -38,10 +38,11 @@ INSTALLED_APPS = [
     # my apps
     'pages',
     'article',
+    'posts',
+    'blog',
     # 3rd Party
     'crispy_forms',  # new
-    # Local
-    # 'accounts',
+
 
 ]
 TIME_ZONE = 'Asia/Tehran' # new
